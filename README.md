@@ -16,5 +16,3 @@ Hoje trabalho utilizando as seguintes tecnologias:
 - [Banco de dados](https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15) - SQL Server;
 - [Framework back-end](https://docs.microsoft.com/pt-br/ef/) - Entity framework;
 
-
-- [Graduação](https://www.udc.edu.br/site/#/udc/graduacao/curso/18) 👨🏼‍🏫 - Atualmente estou no último semestre do curso de Sistemas de informação! Faltando apenas uma matéria para conclusão. Já fui aprovado em meu TCC com média 9.5;
