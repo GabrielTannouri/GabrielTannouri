@@ -14,4 +14,4 @@ Biblioteca front-end - Bootstrap;
 Banco de dados - SQL Server;
 Framework back-end - Entity framework.
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
+- [Graduação](https://www.udc.edu.br/site/#/udc/graduacao/curso/18) 👨🏼‍🏫 - Atualmente estou no último semestre do curso de Sistemas de informação! Faltando apenas uma matéria para conclusão. Já fui aprovado em meu TCC com média 9.5;
