@@ -16,5 +16,5 @@ Hoje trabalho utilizando as seguintes tecnologias:
 - [Banco de dados](https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15) - SQL Server;
 - [Framework back-end](https://docs.microsoft.com/pt-br/ef/) - Entity framework.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTannouri&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTannouri&show_icons=true&theme=radical)
 ![Snake animation](https://github.com/GabrielTannouri/GabrielTannouri/blob/output/github-contribution-grid-snake.svg)
