@@ -1,4 +1,4 @@
-# Olá! :U+1F919: Sou o Gabriel Tannouri, desenvolvedor C#.
+# Olá! :call_me_hand: Sou o Gabriel Tannouri, desenvolvedor C#.
 <!--
 **GabrielTannouri/GabrielTannouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
