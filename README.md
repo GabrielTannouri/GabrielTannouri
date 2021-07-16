@@ -13,7 +13,7 @@ Hoje trabalho utilizando as seguintes tecnologias:
 <br />
 - [Linguagem de programação](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) - C#;
 <br />
-- [Linguagem de programação](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) - C#;
+- [Biblioteca front-end](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
 - [Biblioteca front-end](https://getbootstrap.com.br/) - Bootstrap;
 <br />
 - [Banco de dados](https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15) - SQL Server;
