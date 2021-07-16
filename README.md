@@ -6,4 +6,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gabrieltannouri/)](https://www.instagram.com/gabrieltannouri/)
 
 
-##  Sobre mim:  :eyes:  
+##  Sobre mim:
+
+I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
