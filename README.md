@@ -17,6 +17,6 @@ Hoje trabalho utilizando as seguintes tecnologias:
 - [Framework back-end](https://docs.microsoft.com/pt-br/ef/) - Entity framework.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTannouri&show_icons=true&theme=tokyonight&locale=pt-BR)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTannouri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTannouri&layout=compact&theme=tokyonight&locale=pt-BR)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/GabrielTannouri/GabrielTannouri/blob/output/github-contribution-grid-snake.svg)
