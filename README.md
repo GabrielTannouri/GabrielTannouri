@@ -14,5 +14,7 @@ Hoje trabalho utilizando as seguintes tecnologias:
 - [Linguagem de programação](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) - C#;
 - [Biblioteca front-end](https://getbootstrap.com.br/) - Bootstrap;
 - [Banco de dados](https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15) - SQL Server;
-- [Framework back-end](https://docs.microsoft.com/pt-br/ef/) - Entity framework;
+- [Framework back-end](https://docs.microsoft.com/pt-br/ef/) - Entity framework.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTannouri&layout=compact)](https://github.com/GabrielTannouri/github-readme-stats)
 
