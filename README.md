@@ -7,7 +7,7 @@
 
 
 ##  Sobre mim:
-Sou desenvolvedor back-end e front-end.
+Sou desenvolvedor back-end e front-end na [@rpsmart](https://rpsmart.com.br/).
 Trabalho utilizando as seguintes tecnologias:
 Linguagem de programação - C#;
 Biblioteca front-end - Bootstrap;
