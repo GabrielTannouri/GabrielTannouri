@@ -7,5 +7,11 @@
 
 
 ##  Sobre mim:
+Sou desenvolvedor back-end e front-end.
+Trabalho utilizando as seguintes tecnologias:
+Linguagem de programação - C#;
+Biblioteca front-end - Bootstrap;
+Banco de dados - SQL Server;
+Framework back-end - Entity framework.
 
 I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
