@@ -9,7 +9,9 @@
 ##  Sobre mim:
 Sou desenvolvedor back-end e front-end na empresa [@RPSmart](https://rpsmart.com.br/).
 <br />
-Trabalho utilizando as seguintes tecnologias:
+Hoje trabalho utilizando as seguintes tecnologias:
+<br />
+- [Linguagem de programação](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) - C#;
 Linguagem de programação - C#;
 Biblioteca front-end - Bootstrap;
 Banco de dados - SQL Server;
