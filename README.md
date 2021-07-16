@@ -12,9 +12,12 @@ Sou desenvolvedor back-end e front-end na empresa [@RPSmart](https://rpsmart.com
 Hoje trabalho utilizando as seguintes tecnologias:
 <br />
 - [Linguagem de programação](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) - C#;
-Linguagem de programação - C#;
-Biblioteca front-end - Bootstrap;
-Banco de dados - SQL Server;
-Framework back-end - Entity framework.
+<br />
+- [Biblioteca front-end](https://getbootstrap.com.br/) - Bootstrap;
+<br />
+- [Banco de dados](https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15) - SQL Server;
+<br />
+- [Framework back-end](https://docs.microsoft.com/pt-br/ef/) - Entity framework;
+
 
 - [Graduação](https://www.udc.edu.br/site/#/udc/graduacao/curso/18) 👨🏼‍🏫 - Atualmente estou no último semestre do curso de Sistemas de informação! Faltando apenas uma matéria para conclusão. Já fui aprovado em meu TCC com média 9.5;
