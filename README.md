@@ -3,7 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/GabrielTannouri)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tannouri-026873173/)](https://www.linkedin.com/in/gabriel-tannouri-026873173/)
-[![Instagram Badge](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/gabriel-tannouri-026873173/)](https://www.linkedin.com/in/gabriel-tannouri-026873173/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/gabriel-tannouri-026873173/)](https://www.linkedin.com/in/gabriel-tannouri-026873173/)
 
 Here are some ideas to get you started:
 
